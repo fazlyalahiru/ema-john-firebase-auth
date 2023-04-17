@@ -1,0 +1,28 @@
+.form-container{
+    background-color: azure;
+    width: 400px;
+    margin: 20px auto;
+    padding: 20px;
+}
+.form-container h2{
+    font-size: 34px;
+    font-weight: bold;
+    text-align: center;
+}
+.form-control label{
+font-size: 20px;
+display: block;
+margin-top: 15px;
+color: gray;
+}
+.form-control input{
+    border: 1px solid slategray;
+    padding: 3px;
+    border-radius: 5px;
+    width: 100%;
+}
+.btn-submit{
+    background-color: rgb(239, 207, 50);
+    margin: 15px 0;
+    width: 100%;
+}
